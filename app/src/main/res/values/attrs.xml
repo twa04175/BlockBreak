@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <resources>
-        <declare-styleable name="ABLay">
-            <attr name="XPosition" format="double" />
-            <attr name="YPosition" format="double" />
-        </declare-styleable>
-    </resources>
-</resources>
